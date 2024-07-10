@@ -97,7 +97,7 @@
             var amount = $(this).data('amount');
             var date = $(this).data('date');
             var name = $(this).data('name');
-            var github = 'linked'; // Puedes ajustar esto si tienes un valor predeterminado
+            var github = 'https://github.com/Felix-97-pixel/markjamestest'; // Puedes ajustar esto si tienes un valor predeterminado
 
             $('#item-id').val(id);
             $('#item-code').val(code);
